@@ -1,0 +1,46 @@
+# Ignore system/user folders and files
+.codeium/
+.docker/
+.gitconfig
+.idlerc/
+.lesshst
+.viminfo
+.vscode/
+AppData/
+Application Data/
+Contacts/
+Cookies/
+Documents/
+Downloads/
+Favorites/
+IntelGraphicsProfiles/
+Links/
+Local Settings/
+Music/
+My Documents/
+NTUSER.DAT
+NTUSER.DAT{f8785384-c6e2-11ef-b6d9-040e3ca0247b}.TM.blf
+NTUSER.DAT{f8785384-c6e2-11ef-b6d9-040e3ca0247b}.TMContainer00000000000000000001.regtrans-ms
+NTUSER.DAT{f8785384-c6e2-11ef-b6d9-040e3ca0247b}.TMContainer00000000000000000002.regtrans-ms
+NetHood/
+OneDrive/
+PrintHood/
+PycharmProjects/
+Recent/
+Saved Games/
+Searches/
+SendTo/
+Start Menu/
+Templates/
+Videos/
+go/
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
+sdk/
+traffic/
+vscode-remote-wsl/
+web-server-go/
+# Ignore Rust build artifacts
+/target/
+*.log
